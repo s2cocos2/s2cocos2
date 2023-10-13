@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 ### 
-[![s2cocos2's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2cocos2&include_all_commits=true&theme=gruvbox_light&hide_border=true&count_private=true)](https://github.com/s2cocos2/github-readme-stats)
+[![s2cocos2's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2cocos2&theme=gruvbox_light&hide_border=true&count_private=true)](https://github.com/s2cocos2/github-readme-stats)
 </div>
